@@ -7,6 +7,6 @@ function setupRunningLine() {
     startVisible: true,
     duplicated: true,
     delayBeforeStart: 0,
-    duration: 7000,
+    duration: 30000,
   });
 }
