@@ -20,9 +20,5 @@ function setupAboutWorkSlider() {
     slidesPerView: 'auto',
     mousewheel: true,
     centeredSlides: true,
-    // direction: 'vertical',
-    // loopFillGroupWithBlank: true,
-    // freeMode: true,
-    // spaceBetween: 100,
   });
 }
